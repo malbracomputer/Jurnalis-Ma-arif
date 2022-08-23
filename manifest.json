@@ -1,0 +1,38 @@
+{
+  "name": "jurnalismaarif",
+  "short_name": "jurnalismaarif",
+  "start_url": "https://jurnalismaarif.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Pelajaran, Motovasi, Loker, Bloger.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nLSeqK6Xf_2mUoLnm07PTZkB0zxKnf1qMCXgGSzs1KGJ-BDPEbRJej0FALIQd0470PPqhL9kWTdy8pbPbUE9c3SAAhcdhd42ZpD4flCUL_QucpLyAD87sWMgrbTg6HjX70U972XivLs92vcs_J6UHi4SSKjl7d-HHENIjZ1y9tiBXgP8i99ywkmf/s48/jurnalismaarif.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nLSeqK6Xf_2mUoLnm07PTZkB0zxKnf1qMCXgGSzs1KGJ-BDPEbRJej0FALIQd0470PPqhL9kWTdy8pbPbUE9c3SAAhcdhd42ZpD4flCUL_QucpLyAD87sWMgrbTg6HjX70U972XivLs92vcs_J6UHi4SSKjl7d-HHENIjZ1y9tiBXgP8i99ywkmf/s72/jurnalismaarif.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nLSeqK6Xf_2mUoLnm07PTZkB0zxKnf1qMCXgGSzs1KGJ-BDPEbRJej0FALIQd0470PPqhL9kWTdy8pbPbUE9c3SAAhcdhd42ZpD4flCUL_QucpLyAD87sWMgrbTg6HjX70U972XivLs92vcs_J6UHi4SSKjl7d-HHENIjZ1y9tiBXgP8i99ywkmf/s96/jurnalismaarif.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nLSeqK6Xf_2mUoLnm07PTZkB0zxKnf1qMCXgGSzs1KGJ-BDPEbRJej0FALIQd0470PPqhL9kWTdy8pbPbUE9c3SAAhcdhd42ZpD4flCUL_QucpLyAD87sWMgrbTg6HjX70U972XivLs92vcs_J6UHi4SSKjl7d-HHENIjZ1y9tiBXgP8i99ywkmf/s144/jurnalismaarif.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nLSeqK6Xf_2mUoLnm07PTZkB0zxKnf1qMCXgGSzs1KGJ-BDPEbRJej0FALIQd0470PPqhL9kWTdy8pbPbUE9c3SAAhcdhd42ZpD4flCUL_QucpLyAD87sWMgrbTg6HjX70U972XivLs92vcs_J6UHi4SSKjl7d-HHENIjZ1y9tiBXgP8i99ywkmf/s168/jurnalismaarif.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nLSeqK6Xf_2mUoLnm07PTZkB0zxKnf1qMCXgGSzs1KGJ-BDPEbRJej0FALIQd0470PPqhL9kWTdy8pbPbUE9c3SAAhcdhd42ZpD4flCUL_QucpLyAD87sWMgrbTg6HjX70U972XivLs92vcs_J6UHi4SSKjl7d-HHENIjZ1y9tiBXgP8i99ywkmf/s192/jurnalismaarif.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nLSeqK6Xf_2mUoLnm07PTZkB0zxKnf1qMCXgGSzs1KGJ-BDPEbRJej0FALIQd0470PPqhL9kWTdy8pbPbUE9c3SAAhcdhd42ZpD4flCUL_QucpLyAD87sWMgrbTg6HjX70U972XivLs92vcs_J6UHi4SSKjl7d-HHENIjZ1y9tiBXgP8i99ywkmf/s512/jurnalismaarif.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
